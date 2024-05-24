@@ -94,7 +94,6 @@ button {
 }
 .contacts-list {
   display: flex;
-  outline: 2px solid;
   gap: 40px;
 }
 .contacts-list:first-child {
