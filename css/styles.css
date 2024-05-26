@@ -199,9 +199,8 @@ button {
   background-color: #f4f4fd;
   padding: 120px 0;
 }
-.team-container {
-  padding: 32px 0;
-}
+/* .team-container {
+} */
 .team-title {
   color: #2e2f42;
   font-weight: 700;
@@ -232,7 +231,7 @@ button {
   flex-direction: column;
   justify-content: center;
   max-width: 232px;
-  margin: 32px 0;
+  padding: 32px 0;
 }
 .team-list {
   display: flex;
