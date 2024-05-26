@@ -199,6 +199,9 @@ button {
   background-color: #f4f4fd;
   padding: 120px 0;
 }
+.team-container {
+  padding: 32px 0;
+}
 .team-title {
   color: #2e2f42;
   font-weight: 700;
@@ -308,6 +311,7 @@ button {
   margin-bottom: 16px;
 }
 .logo-footer {
+  display: inline-block;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
